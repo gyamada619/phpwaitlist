@@ -1,4 +1,4 @@
-# phpwaitlist
+# PHP Waitlist
 A project built to facilitate management of an equipment checkout wait list for the [Abilene Christian University Learning Studio](http://blogs.acu.edu/learningstudio).
 
 System Requirements: 
@@ -11,5 +11,6 @@ When you have installed the LAMP stack, clone the repository into /var/www/html 
 
 This waitlist can be used for any business and the branding easily changed with a few lines of CSS. Store your logo in <code>img/logo.png</code>, change the background color in the body tag, and voila!
 
+See an [example build here](http://waitlist.garrettyamada.com). 
 
 [Medoo](http://medoo.in/) was built by @catfan and is used under an MIT license.
