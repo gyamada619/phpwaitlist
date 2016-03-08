@@ -14,3 +14,5 @@ This waitlist can be used for any business and the branding easily changed with 
 See an [example build here](http://waitlist.garrettyamada.com). 
 
 [Medoo](http://medoo.in/) was built by @catfan and is used under an MIT license.
+
+<img src="http://i.imgbox.com/5k4ixSMZ.png" />
