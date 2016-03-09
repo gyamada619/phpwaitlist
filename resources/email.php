@@ -1,7 +1,7 @@
 <?php
 	
 	 // Include Medoo
-  	 require_once '../resources/libraries/medoo.min.php';
+  	 require_once 'libraries/medoo.min.php';
  
  	 // Initialize
 	 $database = new medoo([
@@ -40,6 +40,6 @@
 	);
 	
 	//Kick user back home
-	header("Location: index.php");
+	header("Location: ../public_html/index.php");
 
 ?>
