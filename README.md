@@ -11,8 +11,6 @@ When you have installed the LAMP stack, clone the repository into /var/www/html 
 
 This waitlist can be used for any business and the branding easily changed with a few lines of CSS. Store your logo in <code>img/logo.png</code>, change the background color in the body tag, and voila!
 
-See an [example build here](http://waitlist.garrettyamada.com). 
-
 [Medoo](http://medoo.in/) was built by @catfan and is used under an MIT license.
 
 <img src="http://i.imgbox.com/5k4ixSMZ.png" />
